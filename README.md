@@ -1,5 +1,27 @@
 # StudentPerformanceCSI4106
 
+Setting up your enviroment:
+
+If you do not have miniconda please install sirst before moving on
+
+If you do not have a python virtual environment, then create one by running the following command in a anaconda prompt
+    conda create --name csi4106 python=3.8 pandas numpy scikit-learn matplotlib jupyterlab seaborn imblearn
+
+If you do have a python virtual environment then please install the following packages
+    pandas 
+    numpy
+    scikit-learn
+    matplotlib
+    jupyterlab
+    seaborn
+    imblearn 
+
+Running the code:
+
+    Select Run all in VS code and select your python enviroment
+
+
+
 Attribute Information:
 Student ID
 1- Student Age (1: 18-21, 2: 22-25, 3: above 26)
